@@ -21,3 +21,6 @@ Este repositório foi criado com o intuito e aprofundarmos nosso conhecimento em
 - Pull Request
 - Cherrypick
 - Rebase
+
+Corrigido.
+Faça um pull request, depois um pull para sincronizar com seu repositório local.
